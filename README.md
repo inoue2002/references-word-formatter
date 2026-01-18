@@ -19,8 +19,16 @@ PDFや論文タイトルから書誌情報を調べ、Microsoft Wordの引用管
 
 ## インストール
 
+### プロジェクトにインストール
+
 ```bash
 npx add-skill inoue2002/references-word-formatter
+```
+
+### グローバルにインストール
+
+```bash
+npx add-skill -g inoue2002/references-word-formatter
 ```
 
 ## 使い方
